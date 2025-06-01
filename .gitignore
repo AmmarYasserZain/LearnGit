@@ -1,0 +1,5 @@
+# ignore all files end with .csv
+*.csv
+
+# ignore index.html file
+index.html
